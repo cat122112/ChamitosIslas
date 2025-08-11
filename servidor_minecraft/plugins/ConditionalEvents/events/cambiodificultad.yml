@@ -1,7 +1,7 @@
 Events:
   boton:
     type: block_interact
-    enabled: true
+    enabled: false
     conditions:
     - '%block% == STONE_BUTTON or %block% == OAK_BUTTON or %block% == ACACIA_BUTTON
       or %block% == BAMBOO_BUTTON or %block% == BIRCH_BUTTON or %block% == CHERRY_BUTTON
