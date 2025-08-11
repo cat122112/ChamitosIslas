@@ -2034,6 +2034,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-08-11 15:41:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-08-11 14:55:59 +0000"
