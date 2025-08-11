@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754923138377
+  logout: 1754925084525
   login: 1754923893393
 money: '0'
 lastlocation:
@@ -30,9 +30,9 @@ lastlocation:
 logoutlocation:
   world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
   world-name: world
-  x: 24.216874622274307
-  y: 105.00045798425984
-  z: -782.9680677716907
-  yaw: -107.52099609375
-  pitch: 21.74163246154785
+  x: 27.41432478284873
+  y: 104.875
+  z: -774.3945948374989
+  yaw: -33.514984130859375
+  pitch: 25.20456886291504
 last-account-name: Kenee

@@ -79,7 +79,7 @@ Events:
       - 'wait: 10'
       - 'to_all: playsound_resource_pack: ruletasonido;1;1'
       - 'console_command: tellraw @a "§a-----------------------------------------------------"'
-      - 'console_command: tellraw @a "§2 Ruleta verde : §f La dungeon de las arañas ha sido abierta!!!."'
+      - 'console_command: tellraw @a "§2 Ruleta verde : §f Las cordenadas son, 246 68 -382 ... 124 65 -80 ..... -53 21 -346.."'
       - 'console_command: tellraw @a "§a-----------------------------------------------------"'
       actions3:
       - 'cancel_event: true'
