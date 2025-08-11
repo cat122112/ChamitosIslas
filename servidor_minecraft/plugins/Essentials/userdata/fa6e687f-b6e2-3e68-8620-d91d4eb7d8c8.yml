@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.52.143.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754601461143
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754602843327
+  login: 1754599280249
+money: '0'
+last-account-name: tuliperaparapaya
+logoutlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: -45.32470475316839
+  y: 88.28559602280495
+  z: -686.9620664885783
+  yaw: -97.85693359375
+  pitch: 25.763479232788086
+lastlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: -224.6682699645182
+  y: 6.46919174373292
+  z: -776.8542467944898
+  yaw: -101.46771240234375
+  pitch: -7.3859429359436035

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.52.143.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754589529039
+  login: 1754589022159
+money: '0'
+last-account-name: AykelCito
+lastlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: -139.62925197801783
+  y: 63.0
+  z: -317.53041947928824
+  yaw: -21.300048828125
+  pitch: 17.250057220458984
+logoutlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: 27.75687166518322
+  y: 95.0
+  z: -788.7151445022398
+  yaw: 5.771240234375
+  pitch: -14.436506271362305

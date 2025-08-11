@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.186.220.132
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754661633073
+  login: 1754922939625
+money: '0'
+lastlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: -490.69999998807907
+  y: -38.0
+  z: -787.3665615122367
+  yaw: -169.40232849121094
+  pitch: -7.762742042541504
+logoutlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: 32.391964798325546
+  y: 104.0
+  z: -778.5635992980912
+  yaw: -15.810791015625
+  pitch: 25.20001220703125
+last-account-name: iEileen1

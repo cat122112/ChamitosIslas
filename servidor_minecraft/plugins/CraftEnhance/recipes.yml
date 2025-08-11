@@ -1,0 +1,616 @@
+recipe1:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §b ARMADURA HERRONICA §b§k A
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_CHESTPLATE
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe2:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §b ARMADURA HERRONICA §b§k A3
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_HELMET
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe3:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §b ARMADURA HERRONICA §b§k A4
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_HELMET
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe4:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §b ARMADURA HERRONICA §b§k A5
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_BOOTS
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe5:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §3 ARMADURA DE DIAMANTE CTC 1 §3§k A
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - DIAMOND_HELMET
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe6:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §3 ARMADURA DE DIAMANTE CTC 1 §3§k A1
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - DIAMOND_CHESTPLATE
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe7:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §3 ARMADURA DE DIAMANTE CTC 1 §3§k A2
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - DIAMOND_LEGGINGS
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe8:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §3 ARMADURA DE DIAMANTE CTC 1 §3§k A3
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - DIAMOND_BOOTS
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - EMERALD_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe9:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: GOLDEN_APPLE
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - null
+  - GOLD_INGOT
+  - null
+  - GOLD_INGOT
+  - APPLE
+  - GOLD_INGOT
+  - null
+  - GOLD_INGOT
+  - null
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe10:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: ENCHANTED_GOLDEN_APPLE
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - GOLD_BLOCK
+  - GOLD_BLOCK
+  - GOLD_BLOCK
+  - GOLD_BLOCK
+  - APPLE
+  - GOLD_BLOCK
+  - GOLD_BLOCK
+  - GOLD_BLOCK
+  - GOLD_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe11:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §3 ARMADURA DE DIAMANTE CTC 2 §3§k A
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - RAW_GOLD_BLOCK
+  - GOLD_BLOCK
+  - RAW_IRON_BLOCK
+  - GOLD_BLOCK
+  - DIAMOND_HELMET
+  - DIAMOND_BLOCK
+  - RAW_GOLD_BLOCK
+  - DIAMOND_BLOCK
+  - RAW_IRON_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe12:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §3 ARMADURA DE DIAMANTE CTC 2 §3§k A1
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - RAW_GOLD_BLOCK
+  - GOLD_BLOCK
+  - RAW_IRON_BLOCK
+  - GOLD_BLOCK
+  - DIAMOND_CHESTPLATE
+  - DIAMOND_BLOCK
+  - RAW_GOLD_BLOCK
+  - DIAMOND_BLOCK
+  - RAW_IRON_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe13:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §3 ARMADURA DE DIAMANTE CTC 2 §3§k A2
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - RAW_GOLD_BLOCK
+  - GOLD_BLOCK
+  - RAW_IRON_BLOCK
+  - GOLD_BLOCK
+  - DIAMOND_LEGGINGS
+  - DIAMOND_BLOCK
+  - RAW_GOLD_BLOCK
+  - DIAMOND_BLOCK
+  - RAW_IRON_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe14:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §3 ARMADURA DE DIAMANTE CTC 2 §3§k A3
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - RAW_GOLD_BLOCK
+  - GOLD_BLOCK
+  - RAW_IRON_BLOCK
+  - GOLD_BLOCK
+  - DIAMOND_BOOTS
+  - DIAMOND_BLOCK
+  - RAW_GOLD_BLOCK
+  - DIAMOND_BLOCK
+  - RAW_IRON_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe15:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §4 ARMADURA INFERNAL §4§k A
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - NETHERITE_INGOT
+  - GHAST_TEAR
+  - NETHERITE_INGOT
+  - GHAST_TEAR
+  - NETHERITE_HELMET
+  - MAGMA_CREAM
+  - BLAZE_POWDER
+  - MAGMA_CREAM
+  - BLAZE_POWDER
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe16:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §4 ARMADURA INFERNAL §4§k A1
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - NETHERITE_INGOT
+  - GHAST_TEAR
+  - NETHERITE_INGOT
+  - GHAST_TEAR
+  - NETHERITE_CHESTPLATE
+  - MAGMA_CREAM
+  - BLAZE_POWDER
+  - MAGMA_CREAM
+  - BLAZE_POWDER
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe17:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §4 ARMADURA INFERNAL §4§k A2
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - NETHERITE_INGOT
+  - GHAST_TEAR
+  - NETHERITE_INGOT
+  - GHAST_TEAR
+  - NETHERITE_LEGGINGS
+  - MAGMA_CREAM
+  - BLAZE_POWDER
+  - MAGMA_CREAM
+  - BLAZE_POWDER
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe18:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §4 ARMADURA INFERNAL §4§k A3
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - NETHERITE_INGOT
+  - GHAST_TEAR
+  - NETHERITE_INGOT
+  - GHAST_TEAR
+  - NETHERITE_BOOTS
+  - MAGMA_CREAM
+  - BLAZE_POWDER
+  - MAGMA_CREAM
+  - BLAZE_POWDER
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe19:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §4 ARMADURA INFERNAL PARTE FINAL §4§k A
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - NETHERITE_BLOCK
+  - NETHERITE_BLOCK
+  - NETHERITE_BLOCK
+  - MAGMA_CREAM
+  - §k A §4 ARMADURA INFERNAL §4§k A
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe20:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §4 ARMADURA INFERNAL PARTE FINAL §4§k A1
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - NETHERITE_BLOCK
+  - NETHERITE_BLOCK
+  - NETHERITE_BLOCK
+  - MAGMA_CREAM
+  - §k A §4 ARMADURA INFERNAL §4§k A1
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe21:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §4 ARMADURA INFERNAL PARTE FINAL §4§k A2
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - NETHERITE_BLOCK
+  - NETHERITE_BLOCK
+  - NETHERITE_BLOCK
+  - MAGMA_CREAM
+  - §k A §4 ARMADURA INFERNAL §4§k A2
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe22:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §k A §4 ARMADURA INFERNAL PARTE FINAL §4§k A3
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - NETHERITE_BLOCK
+  - NETHERITE_BLOCK
+  - NETHERITE_BLOCK
+  - MAGMA_CREAM
+  - §k A §4 ARMADURA INFERNAL §4§k A3
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  - MAGMA_CREAM
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe23:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: TOTEM_OF_UNDYING
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - GOLDEN_APPLE
+  - GOLD_BLOCK
+  - GOLDEN_APPLE
+  - GOLD_BLOCK
+  - GOLD_BLOCK
+  - GOLD_BLOCK
+  - GOLDEN_APPLE
+  - GOLD_BLOCK
+  - GOLDEN_APPLE
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe24:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: RUNA DE ESPADA TIER 4
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - IRON_INGOT
+  - IRON_INGOT
+  - IRON_INGOT
+  - IRON_INGOT
+  - null
+  - IRON_INGOT
+  - IRON_INGOT
+  - LIGHTNING_ROD
+  - IRON_INGOT
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe25:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: RUNA DE ESPADA TIER 2
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - GOLD_INGOT
+  - GOLD_INGOT
+  - GOLD_INGOT
+  - GOLD_INGOT
+  - DIAMOND
+  - GOLD_INGOT
+  - GOLD_INGOT
+  - LIGHTNING_ROD
+  - GOLD_INGOT
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe26:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: RUNA DE ESPADA TIER 3
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - DIAMOND
+  - DIAMOND
+  - DIAMOND
+  - DIAMOND
+  - null
+  - DIAMOND
+  - DIAMOND
+  - LIGHTNING_ROD
+  - DIAMOND
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe27:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: RUNA DE ESPADA TIER 1
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - NETHERITE_SCRAP
+  - NETHERITE_SCRAP
+  - NETHERITE_SCRAP
+  - NETHERITE_SCRAP
+  - null
+  - NETHERITE_SCRAP
+  - NETHERITE_SCRAP
+  - LIGHTNING_ROD
+  - NETHERITE_SCRAP
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false
+recipe28:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: §b §b§k A §b ARMADURA HERRONICA §b§k A
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_LEGGINGS
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  - GOLD_BLOCK
+  - IRON_BLOCK
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  shapeless: false

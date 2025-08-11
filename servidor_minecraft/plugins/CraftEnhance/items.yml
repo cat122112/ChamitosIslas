@@ -1,0 +1,513 @@
+§k A §b ARMADURA HERRONICA §b§k A:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA HERRONICA ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+    Unbreakable: true
+IRON_BLOCK:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_BLOCK
+GOLD_BLOCK:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GOLD_BLOCK
+IRON_CHESTPLATE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_CHESTPLATE
+§k A §b ARMADURA HERRONICA §b§k A1:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA HERRONICA ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+    Unbreakable: true
+IRON_LEGGINGS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_LEGGINGS
+§k A §b ARMADURA HERRONICA §b§k A2:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA HERRONICA ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+    Unbreakable: true
+IRON_BOOTS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_BOOTS
+§k A §b ARMADURA HERRONICA §b§k A3:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA HERRONICA ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+    Unbreakable: true
+IRON_HELMET:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_HELMET
+§k A §b ARMADURA HERRONICA §b§k A4:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA HERRONICA ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+    Unbreakable: true
+    trim:
+      material: minecraft:netherite
+      pattern: minecraft:snout
+§k A §b ARMADURA HERRONICA §b§k A5:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA HERRONICA ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+    Unbreakable: true
+    trim:
+      material: minecraft:netherite
+      pattern: minecraft:snout
+§k A §3 ARMADURA DE DIAMANTE CTC 1 §3§k A:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA DE DIAMANTE CTC 1 ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+    Unbreakable: true
+    trim:
+      material: minecraft:gold
+      pattern: minecraft:sentry
+EMERALD_BLOCK:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: EMERALD_BLOCK
+DIAMOND_BLOCK:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_BLOCK
+DIAMOND_HELMET:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_HELMET
+§k A §3 ARMADURA DE DIAMANTE CTC 1 §3§k A1:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA DE DIAMANTE CTC 1 ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+    Unbreakable: true
+    trim:
+      material: minecraft:gold
+      pattern: minecraft:sentry
+DIAMOND_CHESTPLATE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_CHESTPLATE
+§k A §3 ARMADURA DE DIAMANTE CTC 1 §3§k A2:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA DE DIAMANTE CTC 1 ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+    Unbreakable: true
+    trim:
+      material: minecraft:gold
+      pattern: minecraft:sentry
+DIAMOND_LEGGINGS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_LEGGINGS
+§k A §3 ARMADURA DE DIAMANTE CTC 1 §3§k A3:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA DE DIAMANTE CTC 1 ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+    Unbreakable: true
+    trim:
+      material: minecraft:gold
+      pattern: minecraft:sentry
+DIAMOND_BOOTS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_BOOTS
+GOLDEN_APPLE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GOLDEN_APPLE
+GOLD_INGOT:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GOLD_INGOT
+APPLE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: APPLE
+ENCHANTED_GOLDEN_APPLE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: ENCHANTED_GOLDEN_APPLE
+§k A §3 ARMADURA DE DIAMANTE CTC 2 §3§k A:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA DE DIAMANTE CTC 2 ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 4
+    Unbreakable: true
+    trim:
+      material: minecraft:quartz
+      pattern: minecraft:coast
+RAW_GOLD_BLOCK:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: RAW_GOLD_BLOCK
+RAW_IRON_BLOCK:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: RAW_IRON_BLOCK
+§k A §3 ARMADURA DE DIAMANTE CTC 2 §3§k A1:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA DE DIAMANTE CTC 2 ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 4
+    Unbreakable: true
+    trim:
+      material: minecraft:quartz
+      pattern: minecraft:coast
+§k A §3 ARMADURA DE DIAMANTE CTC 2 §3§k A2:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA DE DIAMANTE CTC 2 ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 4
+    Unbreakable: true
+    trim:
+      material: minecraft:quartz
+      pattern: minecraft:coast
+§k A §3 ARMADURA DE DIAMANTE CTC 2 §3§k A3:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA DE DIAMANTE CTC 2 ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":false}]}'
+    enchants:
+      PROTECTION_FALL: 5
+      PROTECTION_ENVIRONMENTAL: 4
+    Unbreakable: true
+    trim:
+      material: minecraft:quartz
+      pattern: minecraft:coast
+§k A §4 ARMADURA INFERNAL §4§k A:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA INFERNAL ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 6
+    Unbreakable: true
+NETHERITE_INGOT:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_INGOT
+GHAST_TEAR:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: GHAST_TEAR
+NETHERITE_HELMET:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_HELMET
+MAGMA_CREAM:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: MAGMA_CREAM
+BLAZE_POWDER:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: BLAZE_POWDER
+§k A §4 ARMADURA INFERNAL §4§k A1:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA INFERNAL ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 6
+    Unbreakable: true
+NETHERITE_CHESTPLATE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_CHESTPLATE
+§k A §4 ARMADURA INFERNAL §4§k A2:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA INFERNAL ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 6
+    Unbreakable: true
+NETHERITE_LEGGINGS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_LEGGINGS
+§k A §4 ARMADURA INFERNAL §4§k A3:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA INFERNAL ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+    enchants:
+      PROTECTION_FALL: 5
+      PROTECTION_ENVIRONMENTAL: 6
+    Unbreakable: true
+NETHERITE_BOOTS:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_BOOTS
+§k A §4 ARMADURA INFERNAL PARTE FINAL §4§k A:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_HELMET
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA INFERNAL PARTE FINAL ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 8
+    Unbreakable: true
+    trim:
+      material: minecraft:gold
+      pattern: minecraft:silence
+NETHERITE_BLOCK:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_BLOCK
+§k A §4 ARMADURA INFERNAL PARTE FINAL §4§k A1:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA INFERNAL PARTE FINAL ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 8
+    Unbreakable: true
+    trim:
+      material: minecraft:gold
+      pattern: minecraft:silence
+§k A §4 ARMADURA INFERNAL PARTE FINAL §4§k A2:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA INFERNAL PARTE FINAL ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 8
+    Unbreakable: true
+    trim:
+      material: minecraft:gold
+      pattern: minecraft:silence
+§k A §4 ARMADURA INFERNAL PARTE FINAL §4§k A3:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" A ","obfuscated":true},{"text":"
+      ARMADURA INFERNAL PARTE FINAL ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false},{"text":"
+      A","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+    enchants:
+      PROTECTION_FALL: 5
+      PROTECTION_ENVIRONMENTAL: 8
+    Unbreakable: true
+    trim:
+      material: minecraft:gold
+      pattern: minecraft:silence
+TOTEM_OF_UNDYING:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: TOTEM_OF_UNDYING
+RUNA DE ESPADA TIER 4:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: PRISMARINE_SHARD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":["RUNA DE ESPADA TIER 4"]}'
+    enchants:
+      DURABILITY: 1
+IRON_INGOT:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_INGOT
+LIGHTNING_ROD:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: LIGHTNING_ROD
+RUNA DE ESPADA TIER 2:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: PRISMARINE_SHARD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":["RUNA DE ESPADA TIER 2"]}'
+    enchants:
+      DAMAGE_ARTHROPODS: 1
+DIAMOND:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: DIAMOND
+RUNA DE ESPADA TIER 3:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: PRISMARINE_SHARD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":["RUNA DE ESPADA TIER 3"]}'
+    enchants:
+      VANISHING_CURSE: 1
+RUNA DE ESPADA TIER 1:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: PRISMARINE_SHARD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":["RUNA DE ESPADA TIER 1"]}'
+    enchants:
+      WATER_WORKER: 1
+NETHERITE_SCRAP:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: NETHERITE_SCRAP
+§b §b§k A §b ARMADURA HERRONICA §b§k A:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3700
+  type: IRON_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: ARMOR
+    display-name: '{"text":"","extra":[{"text":" ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false},{"text":"
+      A ","obfuscated":true,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false},{"text":"
+      ARMADURA HERRONICA ","obfuscated":false,"italic":false,"color":"aqua"},{"text":"
+      A","obfuscated":true,"italic":false,"color":"aqua"}]}'
+    enchants:
+      PROTECTION_ENVIRONMENTAL: 3
+    Unbreakable: true

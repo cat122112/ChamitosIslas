@@ -1,0 +1,547 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3700
+'1':
+  uniqueId: 89f7ccba-9c48-4072-a3bd-61542f5ebd00
+  world: world
+  x: -81
+  y: 74
+  z: -755
+  yaw: 183.27881
+  type: admin
+  name: Espadas
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["ESPADA TIER 1"]}'
+          enchants:
+            LOOT_BONUS_MOBS: 1
+            DAMAGE_ALL: 1
+          Unbreakable: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND_SWORD
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PRISMARINE_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["RUNA DE ESPADA TIER 4"]}'
+          enchants:
+            DURABILITY: 1
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["Espada tier 2"]}'
+          enchants:
+            LOOT_BONUS_MOBS: 3
+            DAMAGE_ALL: 3
+          Unbreakable: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["ESPADA TIER 1"]}'
+          enchants:
+            LOOT_BONUS_MOBS: 1
+            DAMAGE_ALL: 1
+          Unbreakable: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PRISMARINE_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["RUNA DE ESPADA TIER 2"]}'
+          enchants:
+            DAMAGE_ARTHROPODS: 1
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["Espada tier 3"]}'
+          enchants:
+            LOOT_BONUS_MOBS: 4
+            DAMAGE_ALL: 5
+          Unbreakable: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["Espada tier 2"]}'
+          enchants:
+            LOOT_BONUS_MOBS: 3
+            DAMAGE_ALL: 3
+          Unbreakable: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PRISMARINE_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["RUNA DE ESPADA TIER 3"]}'
+          enchants:
+            VANISHING_CURSE: 1
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":" ESPADA TIER 4","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+          enchants:
+            LOOT_BONUS_MOBS: 5
+            DAMAGE_ALL: 7
+          Unbreakable: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["Espada tier 3"]}'
+          enchants:
+            LOOT_BONUS_MOBS: 4
+            DAMAGE_ALL: 5
+          Unbreakable: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PRISMARINE_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["RUNA DE ESPADA TIER 1"]}'
+          enchants:
+            WATER_WORKER: 1
+  snapshots: []
+'2':
+  uniqueId: dc8f9872-4411-4663-8580-69bca7bcfe4a
+  world: world
+  x: -85
+  y: 74
+  z: -755
+  yaw: 190.9389
+  type: admin
+  name: Comida
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BREAD
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: IRON_INGOT
+        amount: 6
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BREAD
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_INGOT
+        amount: 8
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BREAD
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COPPER_INGOT
+        amount: 10
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BREAD
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: NETHERITE_SCRAP
+  snapshots: []
+'3':
+  uniqueId: af68399c-f8af-4816-bb40-6af625cd9fa5
+  world: world
+  x: -89
+  y: 74
+  z: -755
+  yaw: 164.92741
+  type: admin
+  name: Enchants
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            MENDING: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+        amount: 16
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DURABILITY: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: IRON_INGOT
+        amount: 32
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            LOOT_BONUS_BLOCKS: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: IRON_INGOT
+        amount: 64
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            ARROW_INFINITE: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+        amount: 16
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DIG_SPEED: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: IRON_INGOT
+        amount: 64
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            ARROW_DAMAGE: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: IRON_INGOT
+        amount: 32
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CAT_SPAWN_EGG
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+        amount: 32
+  snapshots: []
+'4':
+  uniqueId: 7283e2fd-8d68-42bc-a0b9-58c8c5bfc83c
+  world: world
+  x: -93
+  y: 74
+  z: -755
+  yaw: 170.44969
+  type: admin
+  name: Pots
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:water
+          custom-effects:
+          - ==: PotionEffect
+            effect: minecraft:health_boost
+            duration: -1
+            amplifier: 2
+            ambient: false
+            has-particles: true
+            has-icon: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: IRON_INGOT
+        amount: 32
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:water
+          custom-effects:
+          - ==: PotionEffect
+            effect: minecraft:haste
+            duration: 9600
+            amplifier: 1
+            ambient: true
+            has-particles: true
+            has-icon: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_INGOT
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_INGOT
+        amount: 64
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_strength
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+        amount: 16
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENDER_PEARL
+        amount: 8
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 64
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:water
+          custom-effects:
+          - ==: PotionEffect
+            effect: minecraft:resistance
+            duration: 400
+            amplifier: 2
+            ambient: false
+            has-particles: true
+            has-icon: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+        amount: 48
+  snapshots: []
+'5':
+  uniqueId: fc8fd0ac-cdc7-43fb-93a3-3709949995f9
+  world: world
+  x: -97
+  y: 74
+  z: -755
+  yaw: 180.0
+  type: admin
+  name: Coins
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RABBIT_FOOT
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["COIN"]}'
+          enchants:
+            DURABILITY: 1
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EMERALD
+        amount: 32
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RABBIT_FOOT
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["COIN"]}'
+          enchants:
+            DURABILITY: 1
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_INGOT
+        amount: 42
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RABBIT_FOOT
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["COIN"]}'
+          enchants:
+            DURABILITY: 1
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: IRON_INGOT
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RABBIT_FOOT
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["COIN"]}'
+          enchants:
+            DURABILITY: 1
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_turtle_master
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RABBIT_FOOT
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["COIN"]}'
+          enchants:
+            DURABILITY: 1
+  snapshots: []

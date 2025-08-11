@@ -1,0 +1,111 @@
+Config:
+  update_notification: true
+  data_save_time: 5
+  to_condition_groups:
+    group1:
+    - '%player_has_permission_conditionalevents.somepermission% == yes'
+  experimental:
+    variable_replacement: false
+  debug_actions: true
+  register_commands: []
+Messages:
+  prefix: '&4[&bConditionalEvents&4] '
+  commandReload: '&aConfig Reloaded.'
+  commandNoPermissions: '&cYou don''t have permissions to use this command.'
+  commandResetError: '&cUse &7/ce reset <player> <event>'
+  eventDoesNotExists: '&cThat event doesn''t exists on the config.'
+  eventDataReset: '&aData reset for player &e%player% &aon event &e%event%&a!'
+  eventEnableError: '&cUse &7/ce enable <event>'
+  eventDisableError: '&cUse &7/ce disable <event>'
+  eventEnabled: '&aEvent &7%event% &aenabled.'
+  eventDisabled: '&aEvent &7%event% &adisabled.'
+  commandDebugError: '&cUse &7/ce debug <event>'
+  debugEnabled: '&aDebug now enabled for event &7%event%&a!'
+  debugDisabled: '&aDebug disabled for event &7%event%&a!'
+  onlyPlayerCommand: '&cThis command can be only used by a player.'
+  playerDoesNotExists: '&cThat player doesn''t have any data.'
+  seconds: s
+  minutes: m
+  hours: h
+  days: d
+  commandInterruptError: '&cUse &7/ce interrupt <event> (optional)<player>'
+  commandInterruptCorrect: '&aActions of event &7%event% &ainterrupted.'
+  commandInterruptCorrectPlayer: '&aActions of event &7%event% &ainterrupted for player
+    &7%player%&a.'
+  commandItemError: '&cUse &7/ce item <save/remove> <name>'
+  savedItemDoesNotExists: '&cThat saved item doesn''t exists.'
+  savedItemRemoved: '&aItem &7%name% &aremoved.'
+  mustHaveItemInHand: '&cYou must have an item on your hand.'
+  savedItemAlreadyExists: '&cA saved item with that name already exists.'
+  savedItemAdded: '&aItem &7%name% &asaved.'
+  commandCallCorrectPlayer: '&aEvent &7%event% &asuccessfully executed for player
+    &7%player%&a.'
+  playerNotOnline: '&cThat player is not online.'
+  debugEnabledPlayer: '&aDebug now enabled for event &7%event% &aand player &7%player%&a!'
+  debugDisabledPlayer: '&aDebug disabled for event &7%event% &aand player &7%player%&a!'
+  eventDataResetForAllPlayers: '&aData reset for &eall players &aon event &e%event%&a!'
+  eventDataResetAllForAllPlayers: '&aAll player data reset.'
+  commandCallError: '&cUse &7/ce call <event> (optional)%variable1%=<value1>;%variableN%=<valueN>'
+  commandCallInvalidEvent: '&cYou can only execute a CALL event.'
+  commandCallCorrect: '&aEvent &7%event% &asuccessfully executed.'
+  commandCallFailed: '&cEvent &7%event% &ccould not be executed. Maybe a format error?'
+  placeholderAPICooldownReady: Ready!
+  placeholderAPICooldownNameError: No event with that name!
+  eventDataResetAll: '&aAll data reset for player &e%player%&a!'
+Events:
+  Ruletas:
+    type: player_command
+    conditions:
+    - '%player_has_permission_conditionalevents.ruletas% equals yes'
+    - '%command% startsWith /ruleta roj execute actions1'
+    - '%command% startsWith /ruleta verde execute actions2'
+    - '%command% startsWith /ruleta azul execute actions3'
+    - '%command% startsWith /ruleta amarill execute actions4'
+    actions:
+      actions1:
+      - 'cancel_event: true'
+      - 'console_command: animation true 1 90 285'
+      - 'to_all: playsound_resource_pack: ruleta;1;1'
+      - 'wait: 10'
+      - 'to_all: playsound_resource_pack: ruletasonido;1;1'
+      - 'console_command: tellraw @a "§4-----------------------------------------------------"'
+      - 'console_command: tellraw @a " §4 Ruleta roja : §f Se ha quitado los corazones extras a todosl os jugadores!"'
+      - 'console_command: tellraw @a "§4-----------------------------------------------------"'
+      
+      actions2:
+      - 'cancel_event: true'
+      - 'console_command: animation true 1 286 481'
+      - 'to_all: playsound_resource_pack: ruleta;1;1'
+      - 'wait: 10'
+      - 'to_all: playsound_resource_pack: ruletasonido;1;1'
+      - 'console_command: tellraw @a "§a-----------------------------------------------------"'
+      - 'console_command: tellraw @a "§2 Ruleta verde : §f La dungeon de las arañas ha sido abierta!!!."'
+      - 'console_command: tellraw @a "§a-----------------------------------------------------"'
+      actions3:
+      - 'cancel_event: true'
+      - 'console_command: animation true 1 482 677'
+      - 'to_all: playsound_resource_pack: ruleta;1;1'
+      - 'wait: 10'
+      - 'to_all: playsound_resource_pack: ruletasonido;1;1'
+      - 'console_command: tellraw @a "§9-----------------------------------------------------"'
+      - 'console_command: tellraw @a "§9 Ruleta azul: §f Misión diaria, obtener la nueva armadura de diamante!."'
+      - 'console_command: tellraw @a "§9-----------------------------------------------------"'
+      actions4:
+      - 'cancel_event: true'
+      - 'console_command: animation true 1 678 873'
+      - 'to_all: playsound_resource_pack: ruleta;1;1'
+      - 'wait: 10'
+      - 'to_all: playsound_resource_pack: ruletasonido;1;1'
+      - 'console_command: tellraw @a "§e-----------------------------------------------------"'
+      - 'console_command: tellraw @a " §e Ruleta amarilla : §f Al pegarte una araña venenosa, te coloca una telaraña abajo!!."'
+      - 'console_command: tellraw @a "§e-----------------------------------------------------"'
+    enabled: true
+  Reviil:
+    type: player_death
+    actions:
+      default:
+      - 'console_command: animation true 1 0 89'
+      - 'to_all: playsound_resource_pack: reviil;1;1'
+      - 'console_command: tellraw @a "§4%player% ha muerto"'
+      - 'console_command: title @a actionbar "§4%player% ha muerto"'
+    enabled: true

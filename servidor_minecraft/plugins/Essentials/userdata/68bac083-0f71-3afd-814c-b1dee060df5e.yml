@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.52.143.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754673011282
+  login: 1754672556162
+money: '0'
+lastlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: -139.56055354887548
+  y: -11.0
+  z: -831.7634510691239
+  yaw: -78.526123046875
+  pitch: 39.29991912841797
+logoutlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: 37.69999998807907
+  y: 104.0
+  z: -770.9257662964941
+  yaw: 129.169189453125
+  pitch: 48.7499885559082
+last-account-name: DANOMC

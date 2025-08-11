@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.52.143.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754673332130
+  login: 1754673206840
+money: '0'
+last-account-name: iAnderson1
+lastlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: -50.93481244821137
+  y: 74.71932264795345
+  z: -176.16030619144726
+  yaw: -175.49981689453125
+  pitch: 25.800018310546875
+logoutlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: -68.73337659190659
+  y: 63.0
+  z: -120.38801151502382
+  yaw: 93.60001373291016
+  pitch: 11.250000953674316
+past-usernames:
+- ianderson1

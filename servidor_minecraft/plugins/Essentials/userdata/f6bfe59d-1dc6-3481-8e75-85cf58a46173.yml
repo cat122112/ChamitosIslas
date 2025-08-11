@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.186.220.132
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754922014241
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754923138377
+  login: 1754922822098
+money: '0'
+lastlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: -86.06283309061922
+  y: 76.53292827534491
+  z: -760.7490474112905
+  yaw: -109.87803649902344
+  pitch: 2.713224172592163
+logoutlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: 24.216874622274307
+  y: 105.00045798425984
+  z: -782.9680677716907
+  yaw: -107.52099609375
+  pitch: 21.74163246154785
+last-account-name: Kenee

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.52.143.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1754599747984
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1754657188080
+  login: 1754655570805
+money: '0'
+last-account-name: chamitosislas
+lastlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: -59.5
+  y: 66.0
+  z: -131.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
+  world-name: world
+  x: 180.5939247684247
+  y: 178.9193022457202
+  z: -493.4486223874074
+  yaw: 80.70159912109375
+  pitch: -30.45003318786621
