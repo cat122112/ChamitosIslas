@@ -9,12 +9,14 @@
     "criteria": {
       "minecraft:deep_cold_ocean": "2025-08-07 22:12:02 +0000",
       "minecraft:cold_ocean": "2025-08-07 16:40:43 +0000",
+      "minecraft:frozen_ocean": "2025-08-11 15:37:38 +0000",
       "minecraft:beach": "2025-08-07 15:03:21 +0000",
       "minecraft:frozen_river": "2025-08-08 00:22:46 +0000",
       "minecraft:forest": "2025-08-07 15:07:14 +0000",
       "minecraft:river": "2025-08-07 15:02:50 +0000",
       "minecraft:snowy_plains": "2025-08-07 15:01:42 +0000",
       "minecraft:snowy_taiga": "2025-08-08 00:18:47 +0000",
+      "minecraft:snowy_beach": "2025-08-11 15:35:29 +0000",
       "minecraft:plains": "2025-08-07 15:02:20 +0000"
     },
     "done": false
@@ -2098,6 +2100,18 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-08-11 14:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-11 15:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-11 15:41:01 +0000"
     },
     "done": true
   },
