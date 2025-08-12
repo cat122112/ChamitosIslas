@@ -1652,6 +1652,7 @@
     "criteria": {
       "bread": "2025-08-07 22:03:31 +0000",
       "golden_apple": "2025-08-07 23:38:00 +0000",
+      "enchanted_golden_apple": "2025-08-12 14:59:58 +0000",
       "golden_carrot": "2025-08-07 23:47:24 +0000"
     },
     "done": false
@@ -2067,6 +2068,12 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-08-11 15:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-12 14:56:10 +0000"
     },
     "done": true
   },
