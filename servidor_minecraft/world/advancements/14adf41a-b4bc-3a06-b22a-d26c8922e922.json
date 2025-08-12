@@ -1638,7 +1638,8 @@
       "bread": "2025-08-07 22:04:19 +0000",
       "golden_apple": "2025-08-08 13:13:48 +0000",
       "potato": "2025-08-11 15:42:15 +0000",
-      "baked_potato": "2025-08-08 14:07:50 +0000"
+      "baked_potato": "2025-08-08 14:07:50 +0000",
+      "melon_slice": "2025-08-12 14:56:06 +0000"
     },
     "done": false
   },
@@ -1973,6 +1974,24 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-08-11 15:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-12 14:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-12 14:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-12 14:54:54 +0000"
     },
     "done": true
   },
