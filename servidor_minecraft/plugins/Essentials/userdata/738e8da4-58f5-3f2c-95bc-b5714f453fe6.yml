@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1754928077323
+  logout: 1755011550991
   login: 1755009222281
 money: '0'
 last-account-name: ianderson1
 logoutlocation:
   world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
   world-name: world
-  x: 34.00960219846321
-  y: 111.0
-  z: -767.8046857613383
-  yaw: 32.2039794921875
-  pitch: -18.12627601623535
+  x: -35.610461169018954
+  y: 20.0
+  z: -263.6224954981529
+  yaw: 85.494384765625
+  pitch: 31.499927520751953
 lastlocation:
   world: 963b80ac-82bb-4fc7-9296-92cf6b65740a
   world-name: world
